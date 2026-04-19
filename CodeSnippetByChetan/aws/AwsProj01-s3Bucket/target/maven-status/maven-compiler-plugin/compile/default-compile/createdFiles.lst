@@ -1,0 +1,5 @@
+com\mainapp\service\S3Service.class
+com\mainapp\controller\S3Controller.class
+com\mainapp\config\S3Config.class
+com\mainapp\service\S3ServiceImpl.class
+com\mainapp\AwsProj01S3BucketApplication.class
